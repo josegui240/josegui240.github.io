@@ -2,7 +2,7 @@
 
 # Site de teste
 
-*Olá! Meu nome é José Guilherme, sou estudante do **CESAR School**, e atualmente estou cursando o **1º Período de Ciência da computação**.
+*Olá! Meu nome é José Guilherme, sou estudante do **CESAR School**, e atualmente estou cursando o **2º Período de Ciência da computação**.
 Este é um site teste para um workshop de Git :D*
 
 Gosto muito de anime!
